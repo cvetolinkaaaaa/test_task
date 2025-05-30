@@ -1,0 +1,8 @@
+[2025-05-10 10:03:23] user002 transferred 990.00 to user001
+[2025-05-10 10:15:56] user002 balance inquiry 110.00
+[2025-05-10 10:25:43] user003 transferred 120.00 to user002
+[2025-05-10 11:00:03] user001 balance inquiry 1770
+[2025-05-10 11:01:12] user001 transferred 102.00 to user003
+[2025-05-10 17:04:09] user001 transferred 235.54 to user004
+[2025-05-10 23:45:32] user003 transferred 150.00 to user002
+[2025-05-10 23:55:32] user002 withdrew 50
